@@ -8,4 +8,4 @@ for(let i=0;i<arr.length;i++){
     }
 }
 
-console.log("Maximum elements in the array is:",max)
+console.log("Maximum elements in the array is:",max);
