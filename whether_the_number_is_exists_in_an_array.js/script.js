@@ -1,4 +1,4 @@
-var arr=[12,14,5,65,45,28,76]
+var arr=[12,14,5,65,45,28,76];
 
 var number=12
 var found=false
