@@ -1,4 +1,4 @@
-let arr=[45,34,-9,76,89,-43,88]
+let arr=[45,34,-9,76,89,-43,88];
 
 for (let i=0;i<arr.length;i++){
     if(arr[i]<0){
