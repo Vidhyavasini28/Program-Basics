@@ -1,5 +1,5 @@
-let str = "HelloWorld"; 
-let found = false;
+let str = "HelloWorld" 
+let found = false
 
 for (let i = 0; i < str.length; i++) {
     let char = str[i];
