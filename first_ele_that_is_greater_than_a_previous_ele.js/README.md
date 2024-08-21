@@ -1,0 +1,1 @@
+**Find the first element is greater than a previous element in the array**
