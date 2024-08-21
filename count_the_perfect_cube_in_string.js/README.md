@@ -1,0 +1,1 @@
+**Count the perfect cube in the array**
