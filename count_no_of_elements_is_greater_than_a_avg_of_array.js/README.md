@@ -1,0 +1,1 @@
+**Count the number of elements greater than the average of the array**
